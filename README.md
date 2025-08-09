@@ -1,16 +1,21 @@
-## Hi there 👋
+### 🐥 백엔드 개발자 김선필 입니다. 
 
-<!--
-**Kim6603/Kim6603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+주로 개발에 자바, 스프링 부트를 사용하고  
+대학교에서 커리큘럼으로 배워  
+JS, C언어, 파이썬을 공부해보았습니다.  
+  
+대학 팀원들과 함께 프로젝트로  
+쇼핑몰 사이트를 제작하여  
+프론트와 협업하며 발표하고  
+커뮤니케이션을 많이 진행하고 있습니다.  
+  
+IDE는 인텔리제이, vscode를  
+주로 사용해보았습니다.  
+  
 
-Here are some ideas to get you started:
+### 📎 프로젝트 링크 
+[작업복 쇼핑몰](링크 여기다 적으면 됨.)  
+  
+### ⚔️ 기술스택 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
