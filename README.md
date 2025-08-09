@@ -21,4 +21,4 @@ IDE는 인텔리제이, vscode를
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-182097?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-091096?style=for-the-badge&logo=springboot&logoColor=white">  
+<img src="https://img.shields.io/badge/springboot-991096?style=for-the-badge&logo=springboot&logoColor=white">  
